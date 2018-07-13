@@ -1,0 +1,3 @@
+set(TensorFlow_ABI 0)
+set(TensorFlow_INCLUDE_DIRS "/home/soft/conda3/envs/tf_pip/lib/python2.7/site-packages/tensorflow/include")
+set(TensorFlow_LIBRARIES "/home/soft/conda3/envs/tf_pip/lib/python2.7/site-packages/tensorflow/libtensorflow_framework.so")
