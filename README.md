@@ -1,6 +1,6 @@
 
 
-# bazel_nvcc
+# bazel_tf_op
 ```
 add a custom tensorflow op in bazel
 ```
