@@ -2,7 +2,7 @@
 
 # bazel_nvcc
 ```
-use nvcc compiler and tensorflow  in bazel
+add a custom tensorflow op in bazel
 ```
 # how to build
 ```
